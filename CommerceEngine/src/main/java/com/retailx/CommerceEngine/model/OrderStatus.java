@@ -1,0 +1,9 @@
+package com.retailx.CommerceEngine.model;
+
+public enum OrderStatus {
+    CREATED,
+    PROCESSING,
+    SHIPPED,
+    DELIVERED,
+    CANCELLED
+}
